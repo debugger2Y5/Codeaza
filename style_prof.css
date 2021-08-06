@@ -1,0 +1,46 @@
+body{ 
+    /* background: #a8d8ff; */
+    background-image: url(coding.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 600px;
+    background-color: #cccccc;
+    margin: 18%;
+    }
+row{
+    margin-left: 88px;
+}
+label{
+    font: weight 800px;
+    color: aliceblue;
+} 
+button{
+    color:rgb(33, 76, 126);
+}
+/* .form-table{
+    margin: auto;
+} */
+input, label,button{
+    margin: -8px 16px 1px 124px;
+}
+.col-sm-8{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    font-size: 1.5em;
+    margin-top: -155px;
+
+}
+input {
+    border: 1px solid #171c6b;
+    padding: 4px;
+}
+
+ 
+#form_submission_ajax{
+    padding-top: 10px;
+      padding-bottom: 10px;
+  }
+   
+.btn{
+    padding: 0.375rem 7.9rem;
+    margin: 15px 0px 0px 125px;
+}

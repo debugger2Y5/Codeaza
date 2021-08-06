@@ -1,0 +1,140 @@
+
+body{ 
+  /* background:#a8d8ff; */
+  background-image: url("coding.jpg");
+  background-repeat: no-repeat;
+  background-size: 1300px 679px;
+} 
+.row{
+  margin: auto;
+}
+.icon{
+  max-width: 100%; 
+  height: auto;
+  padding-bottom: 0px;
+}
+  h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.para{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+   .login_form{
+    background: #bdc6ce;
+    padding: 20px; 
+       box-shadow: 0px 1px 36px 5px rgba(78, 79, 129, 0.767);
+       border-radius: 5px;
+   }
+   .form_btn{ 
+     background: #000000;
+      box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+      border: none;
+      color: rgb(255, 255, 255); 
+      width: 100% ;
+
+    }
+    .signupbtn{
+      background: #000000;
+      box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+      border: none;
+      color: rgb(255, 255, 255); 
+      width: 100% ;
+      margin-top: 81px;
+    }
+  .user{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+    .label_txt{ 
+      color: black;
+      font-weight: bold;
+      font-size: 17px;
+      margin: 68px 0 8px 4px;
+     }  
+     .form-control{
+       border-radius: 25px 
+      }
+     .signup_form{ 
+      background: #bdc6ce;
+      padding-left: 25px; 
+     padding-right: 25px; 
+        padding-bottom:5px; 
+       box-shadow: 0px 1px 36px 5px rgb(46, 48, 173);
+       border-radius: 5px;
+      }
+      .logo{ 
+        height: 50px; 
+        width: auto; 
+          display: block;
+    margin-left: auto;
+    margin-right: auto;
+       }
+       .errmsg{ 
+    margin: 2px auto;
+    border-radius: 5px;
+    border: 1px solid red;
+    background: pink;
+    text-align: left;
+    color: brown;
+    padding: 1px;
+  }
+  .successmsg{
+    margin: 5px auto;
+    border-radius: 5px;
+    border: 1px solid rgb(24, 17, 122);
+    background: #3855d6;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+  }
+  .form-table
+{
+  width: 68%;
+  margin: 2px 0px 2px 106px;
+
+}
+ 
+label{
+  font-weight: bolder;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin: 87px -196px -75px 261px;
+}
+ 
+#form_submission_ajax{
+  padding-top: 10px;
+    padding-bottom: 10px;
+}
+ 
+.error{
+    color: #ff0000;
+}
+ 
+input {
+  border: 2px solid #003783;
+  padding: 13px;
+  width: 60%;
+
+}
+ 
+input[type="submit"] {
+  padding: 4px 64px;
+  background-color: #367ef7;
+    border: 2px solid #005496;
+    color: #fff;
+    border-radius: 5px;
+}
+ 
+h1 {
+  color: #301845;
+    font-size: 50px;
+    text-shadow: -1px 1px 0 rgb(137 119 153), 1px 1px 0 rgb(137 119 153), 1px -1px 0 rgb(137 119 153), -1px -1px 0 rgb(137 119 153);
+}
+
+
+
+
